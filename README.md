@@ -12,4 +12,4 @@ This repository is on how to use Serenity BDD, how to use it, tips & tricks, sam
 
 # Awesome Resources 
 
-[awesome-resoures](awesome-resoures)
+[awesome-resoures](awesome-resoures.md)

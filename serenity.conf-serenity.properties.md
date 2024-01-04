@@ -6,10 +6,15 @@ Both serenity.conf and serenity.properties are used for configuring Serenity BDD
 - Hierarchical structure, supports nesting
 - Supports variables for dynamic configuration
 - More readable
+- .conf extension
+- Located under "test/src" folder
 
 # serenity.properties
 - key-value pairs 
 - Flat structure
 - Variables are supported but with limitations
 - Simpler and concise
+- .properties extension
+- Located under the project folder
+  
 

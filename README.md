@@ -19,6 +19,8 @@ This repository is on how to use Serenity BDD, how to use it, tips & tricks, sam
 
 [Use ChatGPT to geerate Serenity BDD's Screenplay code](https://github.com/vuhung16au/chatgpt/blob/main/ChatGPT-generate-Serenity-BDD-Screenplay.md)
 
+# Serenity BDD Screenplay Pattern 
+[Screenplay Pattern](screenplay/README.md)
 # Awesome Resources 
 
 [awesome-resoures](awesome-resoures.md)
